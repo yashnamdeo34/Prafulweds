@@ -44,7 +44,7 @@ navigateLink: "https://maps.app.goo.gl/E3x892b3nNkyxENL9"
     },
     {
       title: "Haldi & Faldan Ceremony",
-      date: "03 May 2026 (Sunday)",
+      date: "03 May 2026(Sunday)",
       time: "Afternoon onwards",
        location: "Residence – Khairgaon",
       icon: "💍",
