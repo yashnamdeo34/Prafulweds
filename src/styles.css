@@ -1,0 +1,70 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ivory: #FFF8EE;
+  --color-gold: #867032;
+  --color-maroon: #800000;
+  --color-cream: #FDFCF0;
+  --color-beige: #F5F5DC;
+  --color-pastel-pink: #FFD1DC;
+
+  --font-playfair: "Playfair Display", serif;
+  --font-poppins: "Poppins", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+  scroll-behavior: smooth;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background-color: var(--color-cream);
+  color: var(--color-maroon);
+  font-family: var(--font-poppins);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, .font-playfair {
+  font-family: var(--font-playfair);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-cream);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-gold);
+  border-radius: 10px;
+}
+
+.parallax-bg {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.section-divider {
+  width: 100%;
+  max-width: 200px;
+  margin: 2rem auto;
+  opacity: 0.6;
+}
+
+.glass-card {
+  background: rgba(255, 248, 238, 0.8);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(201, 168, 76, 0.2);
+}

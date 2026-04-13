@@ -1,0 +1,21 @@
+{
+  "version": 1.1,
+  "atDirectives": [
+    {
+      "name": "@theme",
+      "description": "Define custom theme variables in Tailwind CSS v4."
+    },
+    {
+      "name": "@import \"tailwindcss\"",
+      "description": "Import the Tailwind CSS v4 library."
+    },
+    {
+      "name": "@utility",
+      "description": "Define a custom utility class in Tailwind CSS v4."
+    },
+    {
+      "name": "@variant",
+      "description": "Define a custom variant in Tailwind CSS v4."
+    }
+  ]
+}
