@@ -37,7 +37,7 @@ const weddingConfig = {
       title: "Sangeet & Mehndi Ceremony",
       date: "02 May 2026 (Saturday)",
       time: "Evening onwards",
-      location: "Residence – Khargaon",
+      location: "Residence – Khairgaon",
       icon: "💍",
       mapsEmbed: "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d12953.302528648308!2d80.12949140561038!3d22.24329756340274!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sin!4v1776061041184!5m2!1sen!2sin",
 navigateLink: "https://maps.app.goo.gl/E3x892b3nNkyxENL9"
@@ -46,7 +46,7 @@ navigateLink: "https://maps.app.goo.gl/E3x892b3nNkyxENL9"
       title: "Haldi & Faldan Ceremony",
       date: "03 May 2026 (Sunday)",
       time: "Afternoon onwards",
-       location: "Residence – Khaigaon",
+       location: "Residence – Khairgaon",
       icon: "💍",
       mapsEmbed: "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d12953.302528648308!2d80.12949140561038!3d22.24329756340274!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sin!4v1776061041184!5m2!1sen!2sin",
 navigateLink: "https://maps.app.goo.gl/E3x892b3nNkyxENL9"
@@ -56,7 +56,7 @@ navigateLink: "https://maps.app.goo.gl/E3x892b3nNkyxENL9"
       date: " 03 May 2026(Sunday)",
       time: "10:00 PM onwards",
       note: "Baraat leave: 04:00 PM",
-      location: "Adarsh Marrisge Lown Barghat,Seoni",
+      location: "Adarsh Marriage Lown Barghat,Seoni",
       icon: "💍",
       mapsEmbed: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3086.7587650592677!2d79.75625987433645!3d22.036896852393163!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a2a974504927f6d%3A0xe75725a559bb8f32!2sAdarsh%20Marriage%20celebration%20Lawn%20Barghat!5e1!3m2!1sen!2sin!4v1776061634953!5m2!1sen!2sin",
 navigateLink: "https://maps.app.goo.gl/kD2i5ftNBXXpCVqN6"
@@ -65,7 +65,7 @@ navigateLink: "https://maps.app.goo.gl/kD2i5ftNBXXpCVqN6"
       title: "Reception Party",
       date: "04 May 2026 (Monday)",
       time: "Evening onwards",
-       location: "Residence – Khaigaon",
+       location: "Residence – Khairgaon",
       icon: "💍",
       mapsEmbed: "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d12953.302528648308!2d80.12949140561038!3d22.24329756340274!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sin!4v1776061041184!5m2!1sen!2sin",
 navigateLink: "https://maps.app.goo.gl/E3x892b3nNkyxENL9"
@@ -73,7 +73,7 @@ navigateLink: "https://maps.app.goo.gl/E3x892b3nNkyxENL9"
   ],
   venue: {
     name: "Adarsh Marrisge Lown",
-    address: "Adarsh Marrisge Lown Barghat,Seoni",
+    address: "Adarsh Marriage Lown Barghat,Seoni",
     mapsEmbed: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3086.7587650592677!2d79.75625987433645!3d22.036896852393163!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a2a974504927f6d%3A0xe75725a559bb8f32!2sAdarsh%20Marriage%20celebration%20Lawn%20Barghat!5e1!3m2!1sen!2sin!4v1776061634953!5m2!1sen!2sin",
 navigateLink: "https://maps.app.goo.gl/kD2i5ftNBXXpCVqN6"
   },
